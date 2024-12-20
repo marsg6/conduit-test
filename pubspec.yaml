@@ -1,0 +1,13 @@
+name: conduit_test
+description: simple calculator with tests.
+version: 1.0.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  collection: ^1.19.1
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
